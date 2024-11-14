@@ -1,0 +1,1 @@
+Nombre,Nombre-Completo,Edad,Nacionalidad,Rol,Bando,Arma-Principal,Arma-Secundaria,Pasiva,Ultimate,Habilidad-1,Habilidad-2,Habilidad-3

@@ -1,0 +1,14 @@
+Ashe,Elizabeth-Caledonia,41,Americana,Daño,Banda-Deadlock-Rebels,Vibora,NA,B.O.B,Escopeta-Recortada,Diamita,NA,NA
+Baptiste,Jean-Baptiste-Augustin,38,Haiti,Apoyo,Overwatch,Lanzagrandas-Biotico,NA,Exobotas,Ventana-de-Amplificación,Energia-Biotica,Campo-de-Inmortalidad,NA
+Bastion,Bastion-E54,32,Sueco,Daño,Overwatch,Modo-Asalto,Modo-Reconocimiento,NA,Artilleria,Granada-Tactica-A-36,Reconfiguración,NA
+Brigitte,Brigitte-Lindholm,25,Sueca,Apoyo,Overwatch,Mangual-Mecanico,Escudo-Barrera,Inspiración,Rally,Kit-de-Reparación,Lanzamiento-de-Mangual,Carga-con-Escudo
+Cassidy,Cole-Cassidy,39,Americano,Daño,Overwatch,Pacificador,NA,Tiro-Certero,Evasión,Granada-Segadora,NA,NA
+D.Va,Hana-Song,21,Coreana,Tanque,Overwatch,Cañones-de-Fusión,Pistola-de-Luz,Eyección,Autodestrucción,Propulsores,Matriz-de-Defensa,Micromisiles
+Doomfist,Akande-Ogondimu,47,Nigeriano,Tanque,Talon,Cañon-de-Mano,NA,Portador-del-Guante,Golpe-de-Meteoro,Golpe-Sismico,Puño-Cohete,Bloqueo-de-Poder
+Echo,Echo,14,Suiza,Daño,Overwatch,Disparo-Triple,NA,Planeo,Duplicación,Bombas-Lapa,Haz-Enfocado,Vuelo
+Genji,Genji-Shimada,37,Japones,Daño,Overwatch,Shuriken,NA,Ciberagilidad,Hoja-del-Dragon,Desvio,Corte-Veloz,NA
+Hanzo,Hanzo-Shimada,40,Japones,Daño,Cuenta-Propia,Arco-de-la-Tormenta,NA,Escalada,Ataque-del-Dragon,Tormenta-de-Flechas,Flecha-Sonica,Agilidad-del-Dragon
+Illari,Illari-Quispe-Ruiz,18,Peruana,Apoyo,Cuenta-Propia,Rifle-Solar,NA,NA,Sol-Cautivo,Erupción,Helioterapia,NA
+Junker-Queen,Odessa-Stone,31,Australiana,Tanque,Junkers,Escopeta,Cuchillo-Dentado,Subidon-de-Adrenalina,Desenfreno,Grito-de-Guerra,Matanza,NA
+Junkrat,Jamison-Fawkes,27,Australiano,Daño,Junkers,Lanzagranadas,NA,Caos-Total,Neumatico-Devastador,Mina-de-Conmoción,Trampa-de-Osos,NA
+Juno,Juno-Tao-Minh,19,Vietnamita,Apoyo,Overwatch,Mediarma,NA,Cubrebotas-Marciano,Rayo-Orbital,Impulso-de-Planeo,Hiperanillo,Torpedos-de-Pulsar
